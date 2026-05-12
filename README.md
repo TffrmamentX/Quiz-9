@@ -47,13 +47,13 @@ Each team member owns one mechanic. All four mechanics act on the same canvas �
 
 The time-based mechanic controls the **mood of the entire pond** as a slow weather cycle. Using `millis()` and `frameCount`, the canvas progresses through a three-minute loop that shifts the palette from cool morning blue (~5 AM) to warm dusk pink (~7 PM) and back. As the cycle advances, reflection colours dim, the green of the lily pads desaturates, and the depth of the water — rendered as a vertical gradient — deepens. A subtle event scheduler triggers occasional gusts of wind that briefly accelerate ripple decay across the pond. This mechanic is the **clock of the piece** — it does not move objects, but it changes how every other layer looks, so audio ripples born at 5 AM glow cold blue while ripples born at dusk glow warm rose. It connects directly to Monet's lifelong subject: *the same water under different light*.
 
-![Time-based reference 1: Monet at morning](./assets/time_morning.jpg)
+![Time-based reference 1: Monet at morning](./assets/time_dusk.jpg)
 *Reference 1 — morning light: cool blue palette, soft reflections.*
 
-![Time-based reference 2: Monet at noon](./assets/time_noon.jpg)
+![Time-based reference 2: Monet at noon](./assets/time_morning.jpg)
 *Reference 2 — noon light: saturated greens, sharper lily pad contrast.*
 
-![Time-based reference 3: Monet at dusk](./assets/time_dusk.jpg)
+![Time-based reference 3: Monet at dusk](./assets/time_noon.jpg)
 *Reference 3 — dusk light: warm pink and rose tones, dimmed reflections.*
 
 *Monet painted the same pond at sunrise, noon, and dusk — this mechanic compresses that lifelong study into one loop.*
