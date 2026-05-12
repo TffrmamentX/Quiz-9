@@ -29,7 +29,7 @@
 
 ### Our Vision
 
-We will reinterpret Monet's *Water Lilies* (1916) as a **living, listening pond** — a single square of water that breathes, brightens, ripples, and responds. Monet spent the last thirty years of his life painting the same pond at Giverny, chasing how its surface changed under shifting light and weather; each canvas is a frozen instant of that study. Our reinterpretation gives those instants back their motion. Inspiration comes from **teamLab's *Universe of Water Particles*** seen at Mori Building Digital Art Museum, and **Refik Anadol's *Machine Hallucinations*** data-paintings. We modify Monet's pond by letting **time, noise, sound, and touch** each become one kind of weather over the water — four hands moving the same surface.
+We will reinterpret Monet's "Water Lilies" (1916) as a living, listening pond - a square pond that breathes, glows, ripples and responds. For the last three decades of his life, Monet was constantly painting the same pond in Giverny, chasing how its surface changed under the changing light and weather. Every oil painting is a frozen moment of that research. Our reinterpretation has brought back the movement trajectories of those moments. The inspiration comes from teamLab's "Water Particle Universe" exhibited at the Mori Building Digital Art Museum, as well as Refik Anadol's "Machine Illusion" data painting. We modified Monet's pond, making time, noise, sound and touch a kind of weather on the water surface.
 
 ![teamLab — Universe of Water Particles](./assets/teamlab_water_particles.jpg)
 *teamLab, Universe of Water Particles, ongoing — inspiration for interactive water as a continuous generative surface.*
