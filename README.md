@@ -78,6 +78,7 @@ The audio mechanic listens through the browser microphone using **p5.js `p5.Audi
 The user input mechanic puts **a finger in the water**. The cursor's position and movement are tracked every frame: as the mouse moves over the pond, it leaves a **fading wake of ripples** behind it; lily pads within a small radius are gently pushed away from the cursor and drift back when it leaves. A `mousePressed()` event drops a heavier ripple — like a small stone breaking the surface — that briefly amplifies Perlin's local turbulence around the impact point. Keyboard input adds two simple controls: pressing space briefly stills the entire pond (so the viewer can see Monet's painting underneath), and pressing 1–3 swaps between three different palette presets that bias the time-of-day colour. This mechanic is the **invitation** — it turns a generative painting into a place the viewer can reach into, which is the part of the piece that holds attention longest.
 
 ![User input reference: interactive water installation](./assets/interactive_water_cursor.jpg)
+
 *Interactive water installations — reference for cursor-as-finger ripple interaction.*
 
 ---
