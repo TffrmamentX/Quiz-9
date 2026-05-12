@@ -2,15 +2,18 @@
 
 **Project title:** *Pond, Re-rendered*
 
-**Team:**
-- Jingrou Lin — *Time-based mechanic*
-- Jinge Gao — *Perlin noise + randomness mechanic*
-- Yuchong Xue — *Audio mechanic*
-- Kaylin Zhang — *User input mechanic*
+<h4 style:"font-weight:bold">Team:</h4>
+<ul>
+<li>Jingrou Lin — Time-based mechanic</li>
+<li>Jinge Gao — Perlin noise + randomness mechanic</li>
+<li>Yuchong Xue — Audio mechanic</li>
+<li>Kaylin Zhang — User input mechanic</li>
+</ul>
 
-**Course:** IDEA9103 — Creative Coding
-**Submission:** Quiz 9 — Final Project Pitch
-
+<ul>
+<li>Course: IDEA9103 — Creative Coding</li>
+<li>Submission: Quiz 9 — Final Project Pitch</li>
+</ul>
 ---
 
 ## Part 1 — Project Direction
@@ -19,8 +22,10 @@
 
 **Artwork:** *Water Lilies*, 1916, by **Claude Monet**. Oil on canvas, ~200 × 200 cm. Collection of The National Museum of Western Art, Tokyo.
 
+<figure>
 <img width="1497" height="1500" alt="1467-LL" src="https://github.com/user-attachments/assets/a67b29d3-6c1d-41e1-9cbe-1c739c8d3d54" />
-*Claude Monet, Water Lilies, 1916. Original reference for our reinterpretation.*
+<figcaption>Claude Monet, Water Lilies, 1916. Original reference for our reinterpretation.</figcaption>
+</figure>
 
 ### Our Vision
 
