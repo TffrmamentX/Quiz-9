@@ -19,7 +19,7 @@
 
 **Artwork:** *Water Lilies*, 1916, by **Claude Monet**. Oil on canvas, ~200 × 200 cm. Collection of The National Museum of Western Art, Tokyo.
 
-![Claude Monet — Water Lilies, 1916](./assets/monet_water_lilies_1916.jpg)
+<img width="1497" height="1500" alt="1467-LL" src="https://github.com/user-attachments/assets/a67b29d3-6c1d-41e1-9cbe-1c739c8d3d54" />
 *Claude Monet, Water Lilies, 1916. Original reference for our reinterpretation.*
 
 ### Our Vision
